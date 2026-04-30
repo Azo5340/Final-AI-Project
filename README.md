@@ -27,7 +27,7 @@ The goal is to intentionally introduce bugs into the system, reflect on what cau
     └── bug10_wrong_classes.py     
 ```
  
----
+
  
 ## Model
 - **Dataset:** CIFAR-10 (10 classes, 60,000 images)
@@ -35,8 +35,11 @@ The goal is to intentionally introduce bugs into the system, reflect on what cau
 - **Loss:** CrossEntropyLoss
 - **Optimizer:** Adam (lr=0.001)
 - **Epochs:** 5
----
+
  
 ## LLM Used
 Claude — claude-sonnet-4-20250514
+
+## Author 
+Adam Ouareth | Penn State University Park | Spring 2026
  

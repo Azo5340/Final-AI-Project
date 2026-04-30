@@ -37,6 +37,27 @@ The goal is to intentionally introduce bugs into the system, reflect on what cau
 - **Optimizer:** Adam (lr=0.001)
 - **Epochs:** 5
 
+
+## How to Run
+ 
+### 1. Install dependencies
+```bash
+pip install torch torchvision
+```
+ 
+### 2. Run the base model
+```bash
+python train.py
+```
+This will download CIFAR-10 automatically and train the model for 5 epochs. You should see the accuracy printed at the end.
+ 
+### 3. Try a bug
+```bash
+python bug01_wrong_flatten.py
+```
+Replace `bug01_wrong_flatten.py` with any bug file you want to test. Each file has a comment explaining what was changed and why it breaks.
+ 
+ 
  
 ## LLM Used
 Claude — claude-sonnet-4-20250514

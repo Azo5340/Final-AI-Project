@@ -1,13 +1,13 @@
 # AI 100 – Final Project
 **AI System Building with GenAI as a Cognitive Partner**  
  
----
+
  
 ## Project Overview
 This project uses a simple CNN trained on CIFAR-10 for image classification.  
 The goal is to intentionally introduce bugs into the system, reflect on what causes them, and use GenAI as a Socratic tutor to deepen understanding.
  
----
+
  
 ## Files
 ```

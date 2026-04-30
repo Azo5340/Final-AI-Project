@@ -1,5 +1,4 @@
 # AI 100 – Final Project
----
 **AI System Building with GenAI as a Cognitive Partner**  
  
 ---

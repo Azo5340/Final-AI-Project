@@ -11,9 +11,9 @@ The goal is to intentionally introduce bugs into the system, reflect on what cau
  
 ## Files
 ```
-├── train.py               # Base model: SimpleCNN on CIFAR-10
-├── bug_cases_FINAL.xlsx   # Excel file of the 10 bug cases with reflections and GenAI guidance
-├── final_report.pdf       # PDF report 
+├── train.py                  # Base model: SimpleCNN on CIFAR-10
+├── bug_cases(Bug Cases).csv  # Excel file of the 10 bug cases with reflections and GenAI guidance
+├── final_report.pdf          # PDF report 
 └── bugs:
     ├── bug01_wrong_flatten.py     
     ├── bug02_no_zero_grad.py      

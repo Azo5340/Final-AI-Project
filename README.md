@@ -1,5 +1,3 @@
-# Final-AI-Project
-
 # AI 100 – Final Project
 **AI System Building with GenAI as a Cognitive Partner**  
 Adam Ouareth | Penn State University Park | Spring 2026
